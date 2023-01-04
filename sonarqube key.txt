@@ -1,0 +1,7 @@
+171bdbcf880b2a61e4106d434c71167458cb2414
+
+
+mvn sonar:sonar \
+  -Dsonar.projectKey=gitaction-yerin \
+  -Dsonar.host.url=http://133.186.151.141:9000 \
+  -Dsonar.login=171bdbcf880b2a61e4106d434c71167458cb2414
